@@ -1,4 +1,4 @@
-# Hack-Tools
+#!Hack-Tools
 pkg update
 
 pkg upgrade
